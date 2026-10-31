@@ -1,0 +1,7 @@
+sim/*.o
+sim/*.cf
+sim/*.vcd
+sim/tb_traffic_light
+sim/work/
+sim/transcript
+sim/*.wlf
